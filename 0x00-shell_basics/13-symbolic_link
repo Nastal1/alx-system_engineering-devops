@@ -1,2 +1,2 @@
 #!/bin/bash
-touch__ls_->_ /bin/ls
+ln -s /bin/ls __ls__
